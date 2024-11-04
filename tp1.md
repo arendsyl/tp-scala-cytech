@@ -2,7 +2,7 @@
 
 ## Part I - Installing Scala 3
 
-Follow the instructions at [https://docs.scala-lang.org/getting-started/install-scala.html#install-scala-on-your-computer]()
+Follow the instructions at (https://docs.scala-lang.org/getting-started/install-scala.html#install-scala-on-your-computer)
 
 Don’t do Using the Scala CLI
 
