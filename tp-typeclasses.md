@@ -1,4 +1,4 @@
-# Scala - TP1
+# Scala - TP2
 
 ## Part I - Basic typeclasses
 
