@@ -23,7 +23,7 @@ val elton: Person = Person("Elton", "John")
 summon[Show[Person]].show(elton) //returns "Elton John"
 ```
 
-Second create extension method to call `.show` on `Person`
+Second create extension method to call `.show` on any type A that implements Show.
 
 ```scala
 val elton: Person = Person("Elton", "John")
